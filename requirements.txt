@@ -1,0 +1,5 @@
+Django~=6.0.5
+djangorestframework~=3.17.1
+drf-yasg~=1.21.15
+qrcode==8.2
+pillow==12.2.0
